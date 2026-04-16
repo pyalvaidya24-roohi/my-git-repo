@@ -1,0 +1,17 @@
+GIT COMMANDS
+ls
+cd ..
+git log
+ls
+rm raj.txt
+ls
+rm simran.txt
+ls
+git status
+git restore raj.txt
+git restore simran.txt
+ls
+git status
+git config --global user.name "pyalvaidya24-roohi"
+git config --global user.email "pyalvaidya24@gmail.com"
+git log
